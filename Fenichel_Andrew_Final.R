@@ -1,4 +1,4 @@
-#Data Science 301-2 Final Project
+#Predicting NBA 3pt% Using College Stats
 
 #Loading Packages
 library(tidyverse)
@@ -21,9 +21,6 @@ set.seed(3739)
 #Loading Unproccessed Data
 players_dat_uncleaned <- read_csv(file = "Data/Unproccessed/players.csv") %>%
   clean_names()
-
-players_dat_uncleaned %>%
-  filter()
 
 #Stage 1: Data Cleaning and Processing
 players_dat <- players_dat %>%
