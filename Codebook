@@ -1,0 +1,35 @@
+Final Data Set Codebook
+
+name = full legal first and last name for each player
+
+position = official basketball position. Options are G, G/F, F, F/C, C, F/G, C/F.
+
+nba_3ptpct = total NBA career three pointers made / total NBA career three pointers attempted
+
+ncaa_3ptapg = total NCAA career three pointers attempted / total NCAA career games played
+
+ncaa_3ptpct = total career NCAA three pointers made / total career NCAA three pointers attempted
+
+ncaa_3ptpg = total NCAA career three pointers made / total NCAA career games played
+
+ncaa_fgapg = total NCAA career field goals attempted / total NCAA career games played
+
+ncaa_fgpct = total career NCAA field goals made / total career NCAA field goals attempted
+
+ncaa_fgpg = total NCAA career field goals made / total NCAA career games played
+
+ncaa_ft = total career NCAA free throws made / total career NCAA free throws attempted
+
+ncaa_ftapg = total NCAA career free throws attempted / total NCAA career games played
+
+ncaa_ftpg = total NCAA career free throws made / total NCAA career games played
+
+ncaa_games = total NCAA career games played
+
+ncaa_ppg = total NCAA career points scored / total NCAA career games played
+
+nba_career_3ptatt = total NBA career three pointers attempted
+
+elite_3pt_shooter = a binary variable that gives a 1 for a career NBA 3 point % above 0.4 and a 0 for below 0.4
+
+good_3pt_shooter = a binary variable that gives a 1 for a career NBA 3 point % above 0.333 and a 0 for below 0.333
